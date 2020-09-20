@@ -1284,19 +1284,19 @@ void bar(int z)                //ROCKET
 {
     window(z+1,22,70,25);
     textcolor(10);
-    cprintf("    €  ");
+    cprintf("    √õ  ");
     window(z+1,23,70,25);
-    cprintf("   ﬁ");
+    cprintf("   √û");
     textcolor(9);
-    cprintf("€");
+    cprintf("√õ");
     textcolor(10);
-    cprintf("›  ");
+    cprintf("√ù  ");
     window(z+1,24,70,25);
-    cprintf("  ﬁ");
+    cprintf("  √û");
     textcolor(9);
-    cprintf("€ﬂ€");
+    cprintf("√õ√ü√õ");
     textcolor(10);
-    cprintf("›  ");
+    cprintf("√ù  ");
 }
 
 
